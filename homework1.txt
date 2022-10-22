@@ -1,0 +1,5 @@
+m ədədinin tək və ya cüt olmasının yoxlanılması 
+sıfırdan fərqli ədəd daxil edin 
+ədədin ikiyə moduna görə təyin edin
+true ədədin  ikiyə mod-u sıfıra bərabrərdisə ədəd cütdür 
+false   ədədin ikiyə mod-u  sıfıra bərabər  deyilsə ədəd təkdir
